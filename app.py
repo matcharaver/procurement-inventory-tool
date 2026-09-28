@@ -89,7 +89,7 @@ st.dataframe(
             "Lead_Time_Days",
             "Ghost_Risk",
         ]
-    ].style.applymap(highlight_risk, subset=["Ghost_Risk"]),
+    ].style.map(highlight_risk, subset=["Ghost_Risk"]),
     use_container_width=True,
 )
 
