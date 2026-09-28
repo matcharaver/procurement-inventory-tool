@@ -1,0 +1,13 @@
+SKU,Description,Category,Vendor,Unit_Cost,List_Price,Lead_Time_Days,Stock_Qty,Reliability_Score
+VLV-304-2,2in 304 Stainless Ball Valve 1000 WOG,Valves & Fittings,Ferguson Industrial,142.50,195.00,1,45,0.98
+VLV-304-2,2in 304 Stainless Ball Valve 1000 WOG,Valves & Fittings,Winsupply North TX,138.00,195.00,4,8,0.72
+VLV-316-4,4in 316 SS Flanged Gate Valve Class 150,Valves & Fittings,Ferguson Industrial,620.00,850.00,2,12,0.95
+VLV-316-4,4in 316 SS Flanged Gate Valve Class 150,Valves & Fittings,Sunbelt Supply,590.00,850.00,9,3,0.65
+BRG-6205-2RS,Deep Groove Ball Bearing 25x52x15mm,Bearings & Power Trans,Motion Industries,18.25,29.00,1,120,0.99
+BRG-6205-2RS,Deep Groove Ball Bearing 25x52x15mm,Bearings & Power Trans,Applied Industrial,17.10,29.00,3,15,0.80
+MTR-5HP-TEFC,5 HP 3-Phase Induction Motor 1800RPM,Motors & Automation,Motion Industries,540.00,720.00,3,14,0.96
+MTR-5HP-TEFC,5 HP 3-Phase Induction Motor 1800RPM,Motors & Automation,Summit Electric,515.00,720.00,14,2,0.55
+SWG-480-100,100A 3P 480V Heavy Duty Safety Switch,Electrical & Distribution,Rexel USA,310.00,440.00,1,28,0.97
+SWG-480-100,100A 3P 480V Heavy Duty Safety Switch,Electrical & Distribution,Mayer Electric,295.00,440.00,6,5,0.70
+PMP-CENT-2X3,2x3 End Suction Centrifugal Pump 15HP,Pumps & Flow Control,Flowserve Direct,1850.00,2400.00,5,6,0.92
+PMP-CENT-2X3,2x3 End Suction Centrifugal Pump 15HP,Pumps & Flow Control,Doran Supply,1720.00,2400.00,21,1,0.50
